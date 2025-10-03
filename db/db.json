@@ -1,0 +1,40 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "name": "Ana Pérez",
+        "email": "ana.perez@example.com",
+        "role": "admin",
+        "createdAt": "2023-01-15T10:00:00Z"
+      },
+      {
+        "id": 2,
+        "name": "Carlos Gómez",
+        "email": "carlos.gomez@example.com",
+        "role": "editor",
+        "createdAt": "2023-02-20T14:30:00Z"
+      },
+      {
+        "id": 3,
+        "name": "Lucía Martínez",
+        "email": "lucia.martinez@example.com",
+        "role": "viewer",
+        "createdAt": "2023-03-05T09:45:00Z"
+      },
+      {
+        "id": 4,
+        "name": "Juan Torres",
+        "email": "juan.torres@example.com",
+        "role": "editor",
+        "createdAt": "2023-04-10T16:15:00Z"
+      },
+      {
+        "id": 5,
+        "name": "María Rodríguez",
+        "email": "maria.rodriguez@example.com",
+        "role": "admin",
+        "createdAt": "2023-05-22T11:20:00Z"
+      }
+    ]
+  }
+  
