@@ -1,14 +1,13 @@
 {
   "compilerOptions": {
-    "module": "ESNext",        // or "ES2020"
-    "moduleResolution": "bundler",
-    "target": "ES6",
-    "esModuleInterop": true,
+    "target": "ES2020",
+    "module": "CommonJS",
+    "moduleResolution": "Node",
     "outDir": "./dist",
     "rootDir": "./src",
+    "esModuleInterop": true,
     "strict": true,
     "skipLibCheck": true,
-    "forceConsistentCasingInFileNames": true,
-    "verbatimModuleSyntax": false
+    "forceConsistentCasingInFileNames": true
   }
 }

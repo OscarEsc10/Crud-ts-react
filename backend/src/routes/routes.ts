@@ -9,5 +9,7 @@ router.get('/:id', userController.getById.bind(userController));
 router.post('/', userController.create.bind(userController));
 router.put('/:id', userController.update.bind(userController));
 router.delete('/:id', userController.delete.bind(userController));
+router.post('/register', userController.register.bind(userController));
+router.post('/login', userController.login.bind(userController));
 
 export default router;
