@@ -7,7 +7,8 @@
       "password": "ana123",
       "role": "admin",
       "createdAt": "2023-01-15T10:00:00Z",
-      "LastLogin": ""
+      "LastLogin": "",
+      "lastLogin": "2025-10-07T12:32:20.101Z"
     },
     {
       "id": 2,
@@ -25,15 +26,6 @@
       "password": "lucia123",
       "role": "viewer",
       "createdAt": "2023-03-05T09:45:00Z",
-      "LastLogin": ""
-    },
-    {
-      "id": 4,
-      "name": "Juan Torres",
-      "email": "juan.torres@example.com",
-      "password": "juan12345",
-      "role": "editor",
-      "createdAt": "2023-04-10T16:15:00Z",
       "LastLogin": ""
     },
     {
@@ -71,6 +63,24 @@
       "role": "viewer",
       "createdAt": "2025-10-07T03:24:21.136Z",
       "lastLogin": "2025-10-07T03:40:52.246Z"
+    },
+    {
+      "id": 8,
+      "name": "Camila Perez",
+      "email": "camila.perez@example.com",
+      "password": "camila123",
+      "role": "viewer",
+      "createdAt": "2025-10-07T12:32:44.451Z",
+      "lastLogin": ""
+    },
+    {
+      "id": 9,
+      "name": "Jesus Palencia",
+      "email": "jesus.palencia@example.com",
+      "password": "jesus123",
+      "role": "admin",
+      "createdAt": "2025-10-07T14:49:07.701Z",
+      "lastLogin": ""
     }
   ]
 }

@@ -71,6 +71,7 @@ export class UserController {
   }
 
   create(req: Request, res: Response): void {
+    console.log('BODY:', req.body)
     const db = readDB();
     const { name, email, password, role } = req.body;
   
