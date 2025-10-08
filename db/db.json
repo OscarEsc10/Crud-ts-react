@@ -20,33 +20,6 @@
       "LastLogin": ""
     },
     {
-      "id": 3,
-      "name": "Lucía Martínez",
-      "email": "lucia.martinez@example.com",
-      "password": "lucia123",
-      "role": "viewer",
-      "createdAt": "2023-03-05T09:45:00Z",
-      "LastLogin": ""
-    },
-    {
-      "id": 4,
-      "name": "Manuela Espinoza",
-      "email": "manuela.espinoza@example.com",
-      "password": "Manuela12345",
-      "role": "viewer",
-      "createdAt": "2025-10-07T00:16:57.986Z",
-      "lastLogin": ""
-    },
-    {
-      "id": 5,
-      "name": "Camilo arebalo",
-      "email": "camilo.arebalo@example.com",
-      "password": "camilo12345",
-      "role": "viewer",
-      "createdAt": "2025-10-07T00:37:42.448Z",
-      "lastLogin": ""
-    },
-    {
       "id": 6,
       "name": "Gabriel Ariza Palencia",
       "email": "gabriel.ariza@example.com",
@@ -56,26 +29,8 @@
       "lastLogin": ""
     },
     {
-      "id": 7,
-      "name": "Juana valdez",
-      "email": "juana.valdez@example.com",
-      "password": "juana123",
-      "role": "viewer",
-      "createdAt": "2025-10-07T03:24:21.136Z",
-      "lastLogin": "2025-10-07T03:40:52.246Z"
-    },
-    {
-      "id": 8,
-      "name": "Camila Perez",
-      "email": "camila.perez@example.com",
-      "password": "camila123",
-      "role": "viewer",
-      "createdAt": "2025-10-07T12:32:44.451Z",
-      "lastLogin": ""
-    },
-    {
       "id": 9,
-      "name": "Jesus Palencia",
+      "name": "Jesus palencia",
       "email": "jesus.palencia@example.com",
       "password": "jesus123",
       "role": "admin",
