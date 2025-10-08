@@ -147,7 +147,7 @@ const UserList = () => {
     });
   };
 
-  // 🧩 Render principal
+
   if (loading) return <p>Loading users...</p>;
   if (error) return <p>Error: {error}</p>;
 
